@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1069805296550",
+    "firebase_url": "https://hisdjerdap.firebaseio.com",
+    "project_id": "hisdjerdap",
+    "storage_bucket": "hisdjerdap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069805296550:android:f39016e3d1183a1a",
+        "android_client_info": {
+          "package_name": "com.his_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069805296550-r5du8f36d4jmj5c40qdeqce2jkalp1o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSEn5uS7wImRrUJGiAwaKBZcx4nSa7pxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069805296550-r5du8f36d4jmj5c40qdeqce2jkalp1o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069805296550:android:9d3fb1a24c88ec83",
+        "android_client_info": {
+          "package_name": "hisdjerdap.jcerni.rs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069805296550-r5du8f36d4jmj5c40qdeqce2jkalp1o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSEn5uS7wImRrUJGiAwaKBZcx4nSa7pxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069805296550-r5du8f36d4jmj5c40qdeqce2jkalp1o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

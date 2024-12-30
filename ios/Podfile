@@ -1,0 +1,36 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'HISMobile' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for HISMobile
+	
+	# Required by RNFirebase	pod 'Firebase/Core', '~> 6.3.0'
+	pod 'Firebase/Messaging', '~> 6.3.0'
+
+  target 'HISMobile-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'react-native-background-timer', :path => '../node_modules/react-native-background-timer'
+	pod 'React', :path => '../node_modules/react-native'
+	pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+
+  end
+
+  target 'HISMobileTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'HISMobile-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for HISMobile-tvOS
+
+  
+end
